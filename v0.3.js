@@ -7,3 +7,7 @@ fix one bug in release v0.3`);
 
 console.log(`
 fix one bug in fixbug-03 v0.3`);
+
+// 虽然已经 fix one bug 了 但是还有 03.1
+console.log(`
+fix one bug in fixbug-03.1 v0.3`);
