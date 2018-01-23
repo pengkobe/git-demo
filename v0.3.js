@@ -39,3 +39,6 @@ fix one bug in fixbug-03.3 v0.3`);
 // 虽然已经 fix one bug 了 但是还有 03.4
 console.log(`
 fix one bug in fixbug-03.4 v0.3`);
+
+// release 04 啦！
+console.log(`release 04 啦！`);
