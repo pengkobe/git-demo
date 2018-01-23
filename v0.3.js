@@ -12,4 +12,6 @@ fix one bug in fixbug-03 v0.3`);
 console.log(`
 add 1 func`);
 
-
+// 添加功能点2
+console.log(`
+add 2 func`);
