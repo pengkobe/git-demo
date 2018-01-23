@@ -22,7 +22,7 @@ add 3 func fixbug03`);
 
 // 添加功能点4
 console.log(`
-add 4 func`);
+add 4 func fixbug04`);
 
 // 虽然已经 fix one bug 了 但是还有 03.1
 console.log(`
