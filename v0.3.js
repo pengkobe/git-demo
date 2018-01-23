@@ -26,3 +26,7 @@ fix one bug in fixbug-03.2 v0.3`);
 // 虽然已经 fix one bug 了 但是还有 03.3
 console.log(`
 fix one bug in fixbug-03.3 v0.3`);
+
+// 虽然已经 fix one bug 了 但是还有 03.4
+console.log(`
+fix one bug in fixbug-03.4 v0.3`);
