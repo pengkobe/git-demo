@@ -18,7 +18,7 @@ add 2 func`);
 
 // 添加功能点3
 console.log(`
-add 3 func`);
+add 3 func fixbug03`);
 
 // 添加功能点4
 console.log(`
